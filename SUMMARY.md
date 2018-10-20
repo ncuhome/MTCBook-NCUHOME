@@ -17,5 +17,9 @@
   * [关于Fn键的说明](Chapter/About_Fn.md)
   * [Windows操作快捷键](Chapter/For_Windows.md)
 * [5.简单电脑维修](Chapter5/README.md)
-* [6.一些小技巧](Chapter6/README.md)
-* [附：写在最后的一些话](Chapter7/README.md)
+  * [重装系统](Chapter5/Reinstall_System.md)
+  * [电脑常识](Chapter5/Basic_Knowledge.md)
+  * [基本维修](Chapter5/Basic_Repair.md)
+* [6.一些小技巧](Chapter6/Some_Tips.md)
+* [附：写在最后的一些话](Chapter7/At_Last.md)
+

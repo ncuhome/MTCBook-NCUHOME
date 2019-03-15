@@ -59,3 +59,7 @@ KMS（Key Management Service） ：激活office2016和windows10的工具
    最快最方便的方法：重装系统。其他方法较为繁琐且具有一定安全性，在此不做介绍，可百度谷歌查找解决办法
 
 <div STYLE="page-break-after: always;"></div>
+
+#### Office 2010
+
+这里推荐使用一款名为 mini-KMS_Activator_v1.2_Office2010 的软件，可在百度搜索得到，也可在应维机中找到。

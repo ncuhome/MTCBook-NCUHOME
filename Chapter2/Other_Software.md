@@ -1,6 +1,6 @@
-### 其他工具
+## 其他工具
 
-#### MindManager2017
+### MindManager2017
 
 思维导图，只有英文版
 
@@ -13,7 +13,11 @@
 1. 双击打开安装包进行安装
 2. 安装完成之后需要输入密钥，打开“注册码.txt”复制密钥即可
 
-#### Cracklock工具
+### Xind Zen
+
+直接去应维机内（`D:\软件\Xmind_Zen`）获取破解版安装包即可
+
+### Cracklock工具
 
 锁定时间工具，破解有试用时间的软件。不保证100%成功。
 
@@ -35,3 +39,5 @@
 <img src="../images/电脑软件安装破解/crack-4.png" width="300px" />
 
 <div STYLE="page-break-after: always;"></div>
+
+#### 

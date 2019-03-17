@@ -6,7 +6,7 @@
   * [移动设备数据线](Chapter1/Data_Cables.md)
   * [可移动外设](Chapter1/Removable_Devs.md)
 * [2.电脑部分软件的安装及破解](Chapter2/README.md)
-  * [Windows10及Office (KMS_Pico)](Chapter2/MS_Software.md)
+  * [Windows10及Office (KMS 激活)](Chapter2/MS_Software.md)
   * [Adobe系列](Chapter2/Adobe_Software.md)
   * [其他工具](Chapter2/Other_Software.md)
 * [3.软件安利](Chapter3/README.md)

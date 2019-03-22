@@ -21,5 +21,9 @@
   * [电脑常识](Chapter5/Basic_Knowledge.md)
   * [基本维修](Chapter5/Basic_Repair.md)
 * [6.一些小技巧](Chapter6/Some_Tips.md)
-* [附：写在最后的一些话](Chapter7/At_Last.md)
+* [7.机房简单硬件维修](Chapter7/README.md)
+  * [打印机维修](Chapter7/Printer_Repair.md)
+  * [WIFI 维修](Chapter7/WIFI_Repair.md)
+* [附1：机房应维机安装包索引](Software_Summary.md)
+* [附2：写在最后的一些话](At_Last.md)
 

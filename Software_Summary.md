@@ -6,4 +6,42 @@
   - SoidWorks2017 - 3D机械设计
   - MatLab2017 - 数学工具
   - AutoCAD2016 - 工程制图
-- 
+  - SPSS_STATS22 - 统计分析
+- 开发相关
+  - VMware - 虚拟机
+  - Sublime3 - 代码编辑
+  - AxureRP8 - 网页原型设计
+- 办公软件
+  - Office2007-2019
+  - MindManager - 思维导图
+  - Prezi - 云端演示文稿制作6
+  - XMind Zen9.13 - 思维导图(破解版)
+- Adobe系列全家桶
+  - 全套激活工具
+  - AnimateCC16.0 - H5与Flash开发
+  - MediaEncoder11 - 媒体编码
+  - illustrator21.0x64 - 矢量图制作
+  - AfterEffects14.0 -视频后期
+  - PremierePro11.0 - 视频编辑
+  - PhotoshopCC2017 - 图片编辑
+  - Audition10 - 音频音轨编辑
+- 视频编辑
+  - 会声会影X8
+  - 会声会影X9
+  - VEGAS13
+  - 爱剪辑3.0
+  - Vray2.0x64 - 渲染软件
+- 装机必备
+  - Chrome - 谷歌浏览器
+  - IDM - 超好用的下载工具
+  - 7z - 免费轻巧解压工具
+- 系统工具
+  - UltraISO - 软碟通
+  - WinReducer - 系统精简
+  - GPUZ - 硬件检测
+  - Diskgenius - 分区大师
+  - DriverSweeper - 驱动清理
+  - R-studio - 数据恢复
+  - Aida - 硬件测试
+  - KMSpico_setup.exe - 系统激活
+  - mini-KMS_Activator - office2010激活

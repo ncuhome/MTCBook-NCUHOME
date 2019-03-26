@@ -30,14 +30,12 @@
 3. 选择需要锁定的时间、锁定时间、确定
 4. 每次打开需要从`Crack`中打开，右键选中需要打开的软件，点击`Run`
 
-<img src="../images/电脑软件安装破解/crack-1.png" width="300px" />
+<img src="../images/Chapter2/crack-1.png" width="300px" />
 
-<img src="../images/电脑软件安装破解/crack-2.png" width="300px" />
+<img src="../images/Chapter2/crack-2.png" width="300px" />
 
-<img src="../images/电脑软件安装破解/crack-3.png" width="300px" />
+<img src="../images/Chapter2/crack-3.png" width="300px" />
 
-<img src="../images/电脑软件安装破解/crack-4.png" width="300px" />
+<img src="../images/Chapter2/crack-4.png" width="300px" />
 
 <div STYLE="page-break-after: always;"></div>
-
-#### 

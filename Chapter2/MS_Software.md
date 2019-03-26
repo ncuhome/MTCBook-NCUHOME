@@ -24,19 +24,19 @@
 2. 双击打开软件
 3. 弹窗提示“是否运行软件运行”，选择“是”
 4. 点击`Next`-->选择`I accept the agreement`，点击`Next`-->记住`Browse...`里面的地址，点击`Next`-->点击`Next`-->等待-->点击`Finish`退出
-    <img src="../images/电脑软件安装破解/kms-1.png" width="300px" />
-    <img src="../images/电脑软件安装破解/kms-2.png" width="300px" />
-    <img src="../images/电脑软件安装破解/kms-3.png" width="300px" />
-    <img src="../images/电脑软件安装破解/kms-4.png" width="300px" />
-    <img src="../images/电脑软件安装破解/kms-5.png" width="300px" />
+    <img src="../images/Chapter2/kms-1.png" width="300px" />
+    <img src="../images/Chapter2/kms-2.png" width="300px" />
+    <img src="../images/Chapter2/kms-3.png" width="300px" />
+    <img src="../images/Chapter2/kms-4.png" width="300px" />
+    <img src="../images/Chapter2/kms-5.png" width="300px" />
 
 
 <div STYLE="page-break-after: always;"></div>
 
 5. 之后，找到KMS的安装路径，比如这里是`D:\KMSpico` 。双击打开图标，点击红色按钮，便可以激活windows10和office2016
 
-<img src="../images/电脑软件安装破解/kms-6.png" width="300px" />
-<img src="../images/电脑软件安装破解/kms-7.png" width="300px" />
+<img src="../images/Chapter2/kms-6.png" width="300px" />
+<img src="../images/Chapter2/kms-7.png" width="300px" />
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -52,11 +52,11 @@
 
 1. 打开 Office Tool Lite， 启动安装向导
 
-   ![](H:\book\MTCBook-NCUHOME\images\Chapter2\OTP-1.PNG)
+   ![](../images/Chapter2/OTP-1.PNG)
 
 2. 选择需要安装的软件，Office 套件选择 Office 2019 专业增强版 - 批量版，体系架构一般选择64位，Visio 如有需要可选择安装，Project 选择 Project 2019 专业版 - 批量版。
 
-   ![](H:\book\MTCBook-NCUHOME\images\Chapter2\OTP-2.PNG)
+   ![](../images/Chapter2/OTP-2.PNG)
 
 3. 安装完成后进入激活页面，在 KMS 管理填入一个 KMS 地址，填入即可。
 
@@ -87,19 +87,19 @@
 
 1. 在激活页安装 Office Mondo 2016 Volume 证书
 
-   ![](H:\book\MTCBook-NCUHOME\images\Chapter2\OTP-3.PNG)
+   ![](../images/Chapter2/OTP-3.PNG)
 
 2. 安装产品密钥：从说明中取得 Office Mondo 2016 的 GVLK，并粘贴到密钥框中进行安装。
 
-   ![](H:\book\MTCBook-NCUHOME\images\Chapter2\OTP-4.PNG)
+   ![](../images/Chapter2/OTP-4.PNG)
 
 3. 设定 KMS 服务器地址：在 KMS 管理内，输入一个 KMS 地址，并点击 设定服务器地址 按钮，随后点击激活按钮即可。
 
-   ![](H:\book\MTCBook-NCUHOME\images\Chapter2\OTP-5.PNG)
+   ![](../images/Chapter2/OTP-5.PNG)
 
 4. 出现此提示即表示 Office 已成功激活。
 
-   ![](H:\book\MTCBook-NCUHOME\images\Chapter2\otp-6.PNG)
+   ![](../images/Chapter2/otp-6.PNG)
 
 ## Office2016
 
@@ -115,10 +115,10 @@
 
 1. 将软件拷贝到个人U盘上
 2. 双击打开office2016镜像
-    <img src="../images/电脑软件安装破解/office-1.png" width="300px" />
+    <img src="../images/Chapter2/office-1.png" width="300px" />
 3. 点击setup就开始自动安装了，稍等一段时间之后，就安装完成了
 
-  <img src="../images/电脑软件安装破解/office-2.png" width="300px" />
+  <img src="../images/Chapter2/office-2.png" width="300px" />
 
 4. 安装KMS激活工具并激活——步骤见上
 

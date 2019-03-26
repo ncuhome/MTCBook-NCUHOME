@@ -5,13 +5,13 @@
 - 连接主机和显示器
 - 连接笔记本和外接显示器
 
-![VGA线](../images/基础知识/VGA.jpg)
+![VGA线](../images/Chapter1/VGA.jpg)
 
 #### HDMI线
 
 - 连接笔记本和外接显示器
 
-![HDMI线](../images/基础知识/HDMI.jpg)
+![HDMI线](../images/Chapter1/HDMI.jpg)
 
 #### VGA线与HDMI线的区别
 
@@ -21,19 +21,19 @@
 
 **说明** ：
 
-我们说到HDMI线可以音画同步，那么有的时候我们并不想传输音频只想传输画面，这种情况下我们可以找到右下的音量按钮![voice1](../images/基础知识/voice1.png)，右键这个图标在“播放设备"里面进行设置，![voice2](../images/基础知识/voice2.png)。（由于系统的不同，可能界面会有所不同）。
+我们说到HDMI线可以音画同步，那么有的时候我们并不想传输音频只想传输画面，这种情况下我们可以找到右下的音量按钮![voice1](../images/Chapter1/voice1.png)，右键这个图标在“播放设备"里面进行设置，![voice2](../images/Chapter1/voice2.png)。（由于系统的不同，可能界面会有所不同）。
 
 #### HDMI转VGA
 
 - 用于接口的转接，一般用于外接显示器。有的电脑可能没有VGA接口，这个时候就需要这样一根线中转连接。
 
-![HDMI转VGA](../images/基础知识/HDMI转VGA.jpg)
+![HDMI转VGA](../images/Chapter1/HDMI转VGA.jpg)
 
 #### TypeC转HDMI
 
 - 由于很多超极本可能没有HDMI接口，只有TypeC接口。所以在这种情况下可以使用TypeC转HDMI线。
 
-![TypeC2HDMI](../images/基础知识/TypeC2HDMI.jpg)
+![TypeC2HDMI](../images/Chapter1/TypeC2HDMI.jpg)
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -41,4 +41,4 @@
 
 - 主机和显示器分别需要一根电源线。主机和显示器需要一根VGA线来进行连接
 
-![电源线](../images/基础知识/电源线.jpg)
+![电源线](../images/Chapter1/电源线.jpg)

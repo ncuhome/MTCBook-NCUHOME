@@ -15,13 +15,13 @@
 
    准备的东西好了，就可以开工了，按以下顺序制作一个启动盘
 
-<img src="../images/简单电脑维修/pic1.png" width="70%"/>
+<img src="../images/Chapter5/pic1.png" width="70%"/>
 
-<img src="../images/简单电脑维修/pic2.png" width="70%"/>
+<img src="../images/Chapter5/pic2.png" width="70%"/>
 
-<img src="../images/简单电脑维修/pic3.png" width="70%"/>
+<img src="../images/Chapter5/pic3.png" width="70%"/>
 
-<img src="../images/简单电脑维修/pic4.png" width="70%"/>
+<img src="../images/Chapter5/pic4.png" width="70%"/>
 
 **注意**：使用软碟通注意用管理员权限，否则有的时候脸黑别怪我
 **注意2**：有的U盘比较玄学，就是刻录不了，换个U盘就行（小概率）
@@ -32,20 +32,19 @@
 
 在部署系统前，很重要的一点是确定自己电脑的启动方式，进入**BIOS（百度）**可以修改电脑的启动方式和启动项，由于各个厂商定制的bios不一样这里不细讲，大致的方式是
 
-<img src="../images/简单电脑维修/pic5.png" width="50%"/>
+<img src="../images/Chapter5/pic5.png" width="50%"/>
 
 找到你的U盘，可以开始装系统了
 
 这里以win8为例，win10和win7同理，xp的话。。。。。让它寿终正寝吧：）
 
+<img src="../images/Chapter5/pic6.png"  width="70%"/>
 
-<img src="../images/简单电脑维修/pic6.png"  width="70%"/>
+<img src="../images/Chapter5/pic7.png" width="70%" />
 
-<img src="../images/简单电脑维修/pic7.png" width="70%" />
+<img src="../images/Chapter5/pic8.png" width="70%" />
 
-<img src="../images/简单电脑维修/pic8.png" width="70%" />
-
-<img src="../images/简单电脑维修/pic9.png" width="70%" />
+<img src="../images/Chapter5/pic9.png" width="70%" />
 
 最后等待安装完成并自动重启
 
@@ -57,7 +56,7 @@
 
 但是这样，就万事大吉了么？no！
 
-<img src="../images/简单电脑维修/pic10.png" width="70%" />
+<img src="../images/Chapter5/pic10.png" width="70%" />
 
 
 

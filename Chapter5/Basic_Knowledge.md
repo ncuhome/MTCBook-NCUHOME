@@ -6,15 +6,15 @@
 
 1. 首先我们在网站上将diskgeniu下载到电脑中，无须进行安装，直接解压到硬盘上就可以直接使用了。以下为软件打开界面。
 
-<img src="../images/简单电脑维修/pic15.png" />
+<img src="../images/Chapter5/pic15.png" />
 
 2. 鼠标双击Disk Genius.exe运行软件后，选择所需要分区的硬盘和硬盘容量大小，以免误分其它硬盘。
 
-<img src="../images/简单电脑维修/pic16.png" />
+<img src="../images/Chapter5/pic16.png" />
 
 3. 运行DiskGenius工具后，选择需要检测与修复的磁盘分区，然后打开【分区】。
 
-   <img src="../images/简单电脑维修/pic17.png" />
+   <img src="../images/Chapter5/pic17.png" />
 
    4. 里面有各种选项，基本都是比较简单易懂的操作
 
@@ -36,7 +36,7 @@
 
 	一般简单粗暴，加钱买内存，就能变得更强（加内存要注意，有些电脑是半载的内存无法升级，而有额外的内存插槽的电脑一定要注意内存的类型这个可以用cpu-z查看
 
-<img src="../images/简单电脑维修/pic18.png" />
+<img src="../images/Chapter5/pic18.png" />
 
 	最重要的是ddr的类型（大小关联不大4+2或者4+8都行），其次是内存频率，理论上不同频率的内存可以混插，但是默认会以低的频率运行
 
@@ -46,7 +46,7 @@
 	
 	简单做个对比把
 
-<img src="../images/简单电脑维修/pic19.png" />
+<img src="../images/Chapter5/pic19.png" />
 
 	从这些数据上或许不能看出什么细节。
 	
